@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+
+strong {
+    color: black; /* Default color for bold text */
+    transition: color 0.3s; /* Smooth color transition */
+}
+
+a {
+    cursor: pointer; /* Change cursor to indicate link interaction */
+}
